@@ -1,0 +1,17 @@
+Dataset,Series,Fields,Provider,Source_URL,Data_Window_or_Date,Verified_On,Notes
+monthly_adjusted_prices.csv,SPY,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/SPY/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,QQQ,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/QQQ/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,IWM,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/IWM/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,EFA,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/EFA/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,EEM,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/EEM/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,AGG,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/AGG/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,LQD,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/LQD/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,HYG,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/HYG/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,GLD,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/GLD/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+monthly_adjusted_prices.csv,VNQ,Month-end adjusted prices,Digrin,https://www.digrin.com/stocks/detail/VNQ/price,2023-08 through 2026-08,2026-09-19,Verified against published monthly adjusted-price table
+em_etf_peer_set.csv,EEM,"AUM, expense ratio, holdings, benchmark, inception",Official issuer,https://www.ishares.com/us/products/239637/ishares-msci-emerging-markets-etf,Field-specific dates in dataset,2026-09-19,Issuer-reported snapshot
+em_etf_peer_set.csv,IEMG,"AUM, expense ratio, holdings, benchmark, inception",Official issuer,https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf,Field-specific dates in dataset,2026-09-19,Issuer-reported snapshot
+em_etf_peer_set.csv,VWO,"AUM, expense ratio, holdings, benchmark, inception",Official issuer,https://advisors.vanguard.com/investments/products/vwo/vanguard-ftse-emerging-markets-etf,Field-specific dates in dataset,2026-09-19,Issuer-reported snapshot
+em_etf_peer_set.csv,SPEM,"AUM, expense ratio, holdings, benchmark, inception",Official issuer,https://www.ssga.com/us/en/individual/etfs/state-street-spdr-portfolio-emerging-markets-etf-spem,Field-specific dates in dataset,2026-09-19,Issuer-reported snapshot
+em_etf_peer_set.csv,SCHE,"AUM, expense ratio, holdings, benchmark, inception",Official issuer,https://www.schwabassetmanagement.com/products/sche,Field-specific dates in dataset,2026-09-19,Issuer-reported snapshot
+risk_free_monthly.csv,DGS3MO,Month-end 3-month Treasury constant-maturity yield,Federal Reserve / FRED,https://fred.stlouisfed.org/series/DGS3MO,2023-09 through 2026-08,2026-09-19,Last available business-day observation in each month
